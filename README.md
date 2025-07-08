@@ -1,8 +1,5 @@
-# dio-trilha-java-basico
-Curso da DIO da trilha de backend JAVA Santander. Aqui foi implementado uma atividade simples em JAVA apenas para reforma a sintaxe, 
-
 # DIO - Trilha Java Básico
-Ativdade proposta
+Curso da DIO da trilha de backend JAVA Santander. Aqui foi implementado uma atividade simples em JAVA apenas para reforma a sintaxe.
 
 #### Professor
 - [Gleyson Sampaio](https://github.com/glysns)
